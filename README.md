@@ -1,1 +1,3 @@
-تبيان الطبي:هو منصة ذكاء اصطناعي تساعد المريض على فهم تقاريره وتحاليله الطبية بلغة عربية بسيطة وواضحة، عبر دمج تقنيات قراءة الصور (OCR) مع نماذج لغوية متقدمة (Gemini) ومرجعية طبية موثوقة (RAG + Chroma DB).
+Tebyan Medical is an AI platform that helps patients understand their medical reports and lab test results in a simple and clear Arabic language. The system uses OCR technology to read text from medical images and PDF files, then analyzes the results using advanced AI models such as Gemini.
+
+The project also uses a RAG system with Chroma DB to retrieve trusted medical information before generating responses, making the explanations more accurate and reliable. In addition, the platform includes a medical chatbot that can answer health-related questions and provide easy medical explanations for users.
