@@ -13,7 +13,7 @@ from langchain_community.vectorstores import Chroma
 
 # --- 1. الإعدادات ---
 os.environ['HF_HOME'] = r'D:\Project\model_cache'
-API_KEY = "AIzaSyCbDXrMGYIQ169dA1OJER9E4XoF3YC0WkM"
+API_KEY = ""
 genai.configure(api_key=API_KEY)
 
 st.set_page_config(page_title="تبيان الطبي", layout="wide", page_icon="🩺")
